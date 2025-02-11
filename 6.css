@@ -1,0 +1,38 @@
+#b-01{
+    color: rgb(252, 156, 172);
+    background-color: rgb(216, 213, 213);
+}
+*{
+    font-family: sans-serif;
+}
+#td01{
+    text-align: center;
+}
+#table-01{
+    border: 3px solid green;
+}
+#table-02{
+    background-color: rgb(219, 216, 216);
+}
+#td03{
+    background-color: rgb(60, 153, 37);
+}
+#td04{
+    background-color: white;
+}
+#b-02{
+    color: rgb(158, 55, 158);
+}
+#b-03{
+    margin-left: 20px;
+    color: red;
+}
+#b-04{
+    color: rgb(77, 189, 226) ;
+}
+button{
+    border-radius: 3px 3px 3px 3px;
+    border: 0cap;
+    background-color: rgb(6, 197, 6);
+    color: white;
+}

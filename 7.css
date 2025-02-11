@@ -1,0 +1,30 @@
+#bt01{
+    border: 0cap;
+    background-color: rgb(7, 196, 7);
+    color: white;
+}
+#bt02{
+    border: 0cap;
+    background-color: rgb(248, 232, 3);
+    color: rgb(0, 0, 0);
+}
+#bt03{
+    border: 0cap;
+    background-color: red;
+    color: rgb(255, 249, 249);
+}
+th{
+    background-color: rgb(7, 160, 231) !important;
+    color: white;
+}
+*{
+    text-align: center;
+    font-family: serif;
+}
+table{
+    background-color: rgb(214, 211, 211);
+    border: 2px solid rgb(253, 253, 253);
+}
+caption{
+    text-shadow: 3px solid rgb(146, 144, 144);
+}
